@@ -5,9 +5,7 @@
 # 
 # **Author:** Jules Maurice Mulisa
 # 
-# **Student Id:** S1719024
-# 
-# **Module:** Big Data
+# **Institution:** Glasgow Caledonian University
 # 
 
 # In[1]:
